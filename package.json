@@ -8,6 +8,9 @@
     "type": "git",
     "url": "git+https://github.com/foammys/torex-bot.git"
   },
+  "scripts": {
+    "start": "node core/core.js"
+  },
   "author": "foammys",
   "license": "MIT",
   "dependencies": {
